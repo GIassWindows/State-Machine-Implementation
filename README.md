@@ -1,6 +1,5 @@
 # State Machine Implementation
 Just another state machine implementation.
-Also because I don't like using other people's code.
 Also uses my signal implementation.
 
 ## Documentation
